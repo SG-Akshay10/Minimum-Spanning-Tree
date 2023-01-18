@@ -20,3 +20,11 @@ Kruskal's algorithm is useful when the graph is sparse and the number of edges i
 In order to use these algorithms, it's important to have a good understanding of the graph data structure and the time and space complexity of the algorithms. Additionally, it's important to have a good understanding of the union-find data structure, which is used to check if adding an edge will create a cycle in the Kruskal's algorithm.
 
 In summary, Minimum Spanning Tree is an important problem in graph theory, and Prim's and Kruskal's algorithms are two well-known algorithms that can be used to solve this problem. Both of these algorithms have a time complexity of O(E log V) and can be implemented using a priority queue. However, Prim's algorithm is useful when the graph is dense and the number of edges is close to the number of vertices squared, whereas Kruskal's algorithm is useful when the graph is sparse and the number of edges is much less than the number of vertices squared.
+
+# Output :
+
+![1](https://user-images.githubusercontent.com/83088512/213247957-18dea50e-898f-4aa7-9455-8af5ea010e78.png)
+</br>
+![2](https://user-images.githubusercontent.com/83088512/213247965-908db10e-9dbc-4d4c-9fa3-5efeac4f3152.png)
+
+
